@@ -87,7 +87,7 @@ li>p{
 /* For Desktop */
 @media (max-width:1440px) {
     .overlay{
-        height: 90vh;
+/*         height: 90vh; */
     }
 
     .text-side{
