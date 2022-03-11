@@ -15,7 +15,6 @@ body{
 .main-container{
     margin: 7em auto;
     width: 80%;
-    min-height: 60vh;
 }
 
 #card{
@@ -92,7 +91,7 @@ li>p{
     }
 
     .text-side{
-        padding: 20px 80px;
+        padding: 25px 80px;
     }
 
     .text-side>h1{
@@ -103,7 +102,7 @@ li>p{
     }
 
     .boxes{
-        top: 55px;
+        top: 90px;
     }
 }
 
